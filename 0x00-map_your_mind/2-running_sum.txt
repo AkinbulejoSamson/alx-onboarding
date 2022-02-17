@@ -1,0 +1,4 @@
+Initialize a variable SUM = 0
+Request the user to input an integer
+IF the integer > 0, then add this integer to SUM
+	ELSE IF the integer < 0, then print SUM

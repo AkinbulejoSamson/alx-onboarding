@@ -1,0 +1,7 @@
+The following pseudo code assumes that the numbers are given as an array
+
+- Initialize a variable SUM = 0
+- Cycle through elements of the array using a FOR loop
+  initialize elements index position, set a limit using array length, increment index
+    increment the variable SUM with the square of each element 
+- After the FOR loop ends, return the variable SUM and display via print statement

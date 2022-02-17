@@ -1,0 +1,8 @@
+The below assumes that the 3 numbers are given as an array
+
+Run a FOR loop through the array; from i=0 to i<array's length and i increments by 1
+	Run a FOR loop again; from j=i+1 to j<array's length and j increments by 1
+	IF any of the chosen elements are smaller then swap their positions
+RETURN the final solution as the sorted array
+	
+	
